@@ -2,7 +2,7 @@
 
 This repository is just a very simple example on how to access EJB using Servlet and display the result in JSP.
 
-Requirements:
+Prerequisites:
 
 1. Netbeans 8.1
 2. EJB
